@@ -1,0 +1,7 @@
+.well-known/
+  gcve/
+    gna.json
+    gna.ndjson
+    records/
+      GCVE-2025-XXXX.json
+      GCVE-2025-YYYY.json
