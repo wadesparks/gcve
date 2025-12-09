@@ -1,1 +1,1 @@
-
+{"cveMetadata":{"cveId":"GCVE-404-2025-0001","assignerShortName":"VulnCheck"},"containers":{"cna":{"affected":[{"vendor":"ExampleVendor","product":"ExampleProduct","versions":[{"status":"affected","version":"<1.2.3"}]}],"descriptions":[{"lang":"en","value":"Example description."}],"references":[{"url":"https://example.com/advisory"}]}}}
