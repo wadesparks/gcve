@@ -1,13 +1,12 @@
 {
-  "gnaId": "GNA-wadesparks",
-  "name": "wadesparks",
-  "type": "researcher",
+  "gnaId": "GNA-VulnCheck",
+  "name": "VulnCheck Inc.",
+  "type": "organization",
+  "policyUrl": "https://vulncheck.com/vulnerability-disclosure-policy",
+  "recordsBaseUrl": "https://vulncheck.com/advisories/",
   "contact": [
-    {
-      "type": "email",
-      "value": "disclosure@vulncheck.com"
-    }
+    { "type": "email", "value": "disclosure@vulncheck.com" },
+    { "type": "web", "value": "https://vulncheck.com/vulnerability-disclosure-policy" }
   ],
-  "recordsBaseUrl": "https://wadesparks.github.io/gcve/.well-known/gcve/records/",
   "published": "2025-12-09T17:16:00Z"
 }
