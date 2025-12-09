@@ -1,7 +1,13 @@
-.well-known/
-  gcve/
-    gna.json
-    gna.ndjson
-    records/
-      GCVE-2025-XXXX.json
-      GCVE-2025-YYYY.json
+{
+  "gnaId": "GNA-wadesparks",
+  "name": "wadesparks",
+  "type": "researcher",
+  "contact": [
+    {
+      "type": "email",
+      "value": "disclosure@vulncheck.com"
+    }
+  ],
+  "recordsBaseUrl": "https://wadesparks.github.io/gcve/.well-known/gcve/records/",
+  "published": "2025-12-09T17:16:00Z"
+}
